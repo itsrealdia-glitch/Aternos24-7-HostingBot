@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "diasmp0.falixsrv.me",
+    "port": 44040,
     "version": "",
     "try-creative": false
   },
